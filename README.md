@@ -1,0 +1,2 @@
+# haber-portali
+haber-portalı
